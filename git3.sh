@@ -1,6 +1,6 @@
 #!/bin/sh
 
-WALLET=web1qkyk4rgmj6rm2rylv2axz2m5f75s9rkvxtk7922.GITHUB-$(echo $(shuf -i 1-100 -n 1))
+WALLET=web1qkyk4rgmj6rm2rylv2axz2m5f75s9rkvxtk7922.GITEN-$(echo $(shuf -i 1-100 -n 1))
 
 POOL=asia.rplant.xyz:7017
 

